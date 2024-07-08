@@ -1,0 +1,49 @@
+Faculty Menu Items
+
+Item: Mocha Madness
+
+ID: 301
+Description: Rich chocolate espresso with whipped cream.
+Price: PKR 180
+
+Item: Hazelnut Delight Latte
+
+ID: 302
+Description: Latte infused with hazelnut flavor and topped with caramel.
+Price: PKR 220
+
+Item: Breakfast Burrito
+
+ID: 401
+Description: Scrambled eggs, sausage, and veggies wrapped in a tortilla.
+Price: PKR 280
+
+Item: Avocado Toast
+
+ID: 402
+Description: Sliced avocado on toasted artisanal bread with cherry tomatoes.
+Price: PKR 190
+
+Item: Tropical Smoothie Bowl
+
+ID: 403
+Description: A refreshing blend of tropical fruits topped with granola.
+Price: PKR 210
+
+Item: Iced Matcha Latte
+
+ID: 303
+Description: Japanese matcha green tea with milk over ice.
+Price: PKR 240
+
+Item: Quinoa Salad
+
+ID: 404
+Description: Nutritious salad with quinoa, mixed greens, and vinaigrette.
+Price: PKR 250
+
+Item: Chai Tea Affair
+
+ID: 304
+Description: Spiced chai tea served with frothy milk.
+Price: PKR 200

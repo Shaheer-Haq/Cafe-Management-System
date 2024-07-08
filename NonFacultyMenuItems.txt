@@ -1,0 +1,49 @@
+NonFaculty Menu Items
+
+Item: Blue Velvet Latte
+
+ID: 501
+Description: Smooth latte with a hint of blueberry and vanilla.
+Price: PKR 210
+
+Item: Mediterranean Wrap
+
+ID: 502
+Description: Grilled chicken, feta cheese, olives, and tzatziki in a wrap.
+Price: PKR 260
+
+Item: Sweet Potato Fries
+
+ID: 601
+Description: Crispy sweet potato fries with a side of garlic aioli.
+Price: PKR 180
+
+Item: Berry Blast Smoothie
+
+ID: 602
+Description: Mixed berries blended into a refreshing smoothie.
+Price: PKR 190
+
+Item: Pesto Pasta Salad
+
+ID: 603
+Description: Pasta salad with cherry tomatoes, basil pesto, and Parmesan.
+Price: PKR 240
+
+Item: Flat White Elegance
+
+ID: 504
+Description: Espresso with velvety microfoam, a simple yet rich coffee.
+Price: PKR 190
+
+Item: Caprese Panzanella
+
+ID: 604
+Description: Italian bread salad with tomatoes, mozzarella, and balsamic.
+Price: PKR 220
+
+Item: Mango Tango Iced Tea
+
+ID: 505
+Description: Iced black tea infused with mango and a touch of lime.
+Price: PKR 200

@@ -1,0 +1,21 @@
+Users Information: 
+
+User ID: 456
+User Name: ali
+Password: Ali12345
+User Type: Faculty
+
+Users Information: 
+
+User ID: 123
+User Name: shaheer
+Password: Shaheer12
+User Type: Administrator
+
+Users Information: 
+
+User ID: 147
+User Name: shaheer
+Password: Staff123
+User Type: staff
+

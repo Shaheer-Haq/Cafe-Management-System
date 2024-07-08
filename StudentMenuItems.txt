@@ -1,0 +1,81 @@
+Student Menu Items
+
+ItemID: 101
+Item Name: Espresso Shot
+Item Description: A strong and concentrated coffee shot.
+Price: PKR 150
+Quantity In Stock: 10
+
+Menu Items Information: 
+
+ItemID: 102
+Item Name: Cappuccino
+Item Description: Espresso with steamed milk and a layer of frothed milk.
+Price: PKR 200
+Quantity In Stock: 10
+
+Menu Items Information: 
+
+ItemID: 103
+Item Name: Classic Americano
+Item Description: Diluted espresso with hot water, providing a robust flavor.
+Price: PKR 180
+Quantity In Stock: 10
+
+Menu Items Information: 
+
+ItemID: 201
+Item Name: Chocolate Muffin
+Item Description: Moist chocolate muffin, perfect for chocolate lovers.
+Price: PKR 120
+Quantity In Stock: 10
+
+Menu Items Information: 
+
+ItemID: 202
+Item Name: Grilled Chicken Panini
+Item Description: Grilled chicken with cheese and veggies in a crispy panini.
+Price: PKR 250
+Quantity In Stock: 10
+
+Menu Items Information: 
+
+ItemID: 203
+Item Name: Blueberry Scone
+Item Description: Buttery scone filled with juicy blueberries.
+Price: PKR 160
+Quantity In Stock: 10
+
+Menu Items Information: 
+
+ItemID: 104
+Item Name: Iced Latte
+Item Description: Chilled espresso with milk over ice.
+Price: PKR 220
+Quantity In Stock: 10
+
+Menu Items Information: 
+
+ItemID: 204
+Item Name: Fruit Salad Bowl
+Item Description: Fresh assortment of seasonal fruits.
+Price: PKR 180
+Quantity In Stock: 10
+
+Menu Items Information: 
+
+ItemID:	123
+Item Name:	chocolate_cake
+Item Description:	fresh_chocolate_cake
+Price:	450
+Quantity In Stock:	10
+
+
+Menu Items Information: 
+
+ItemID:	1003
+Item Name:	103
+Item Description:	hello
+Price:	1002
+Quantity In Stock:	70
+
